@@ -1,3 +1,6 @@
-person
-billiard ball
-donut
+Man-Standing
+Man-Sitting
+Man-Lying
+Woman-Standing
+Woman-Sitting
+Woman-Lying
